@@ -100,27 +100,21 @@ h3 {
     flex: 1;
 }
 
-.small_pizza:hover {
-    box-shadow: 10px 10px #5bf15b;
-}
+
 
 .medium_pizza {
     background-color:  #455E89;
     flex: 1;
 }
 
-.medium_pizza:hover {
-    box-shadow: 10px 10px #f90029;
-}
+
 
 .large_pizza {
     background-color: #723C70;
     flex: 1;
 }
 
-.large_pizza:hover {
-    box-shadow: 10px 10px hsla(0, 72%, 63%, 0.116);
-}
+
 
 .contact_us{
     background-color: #B7094C;
